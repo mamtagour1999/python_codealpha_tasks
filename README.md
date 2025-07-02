@@ -16,6 +16,9 @@ The player can make up to 6 incorrect guesses before the game ends.
 python hangman.py
 py hangman.py 
 
+![image](https://github.com/user-attachments/assets/caf9dde4-e330-434b-bfc7-e3ef028873ad)
+
+
 
 ![image](https://github.com/user-attachments/assets/831814d6-51f3-4ede-84f6-fdb755cc0663)
 ![image](https://github.com/user-attachments/assets/64aea98f-b2f1-434b-9fc0-53d8e66e36cd)
