@@ -14,16 +14,23 @@ The player can make up to 6 incorrect guesses before the game ends.
 ## How to Run
 ```bash
 python hangman.py
-py hangman.py 
+or
+py hangman.py
 
-![image](https://github.com/user-attachments/assets/caf9dde4-e330-434b-bfc7-e3ef028873ad)
+***********************************************************************************************************************
+***********************************************************************************************************************
+## Screenshots
+
+![Screenshot 1](WhatsApp%20Image%202025-07-02%20at%206.14.59%20PM.jpeg)
+
+![Screenshot 2](WhatsApp%20Image%202025-07-02%20at%206.15.32%20PM.jpeg)
+
+![Screenshot 3](WhatsApp%20Image%202025-07-02%20at%206.17.11%20PM.jpeg)
+
+![Screenshot 4](WhatsApp%20Image%202025-07-02%20at%206.18.58%20PM.jpeg)
 
 
 
-![image](https://github.com/user-attachments/assets/831814d6-51f3-4ede-84f6-fdb755cc0663)
-![image](https://github.com/user-attachments/assets/64aea98f-b2f1-434b-9fc0-53d8e66e36cd)
-![image](https://github.com/user-attachments/assets/d29ee534-f267-42bf-9eeb-c8f1d873d29b)
-![image](https://github.com/user-attachments/assets/5c7f0d6c-ece3-489d-b878-02b2cc3217eb)
 
 
 
